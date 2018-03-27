@@ -1,0 +1,7 @@
+Following are the three trends that I notice in the "news channel sentiment analysis using twitter" assignment:
+
+1) BBC and CBS received positive tweets where as CNN, FOX and New York Times received negative tweets as of March 27th 2018.
+
+2)Many tweets received for all the news channels are neutral and fall on 0.0 polarity line on the sentiment analysis chart.
+
+3)There is a spike in positive emotions for CBS. It receives very high number of positive tweets and CNN received the smallest number of negative tweets as of March 27th 2018.
