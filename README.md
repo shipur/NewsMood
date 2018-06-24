@@ -10,8 +10,11 @@ The first plot features the following:
 * A scatter plot of sentiments of the last __100__ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
 * Each plot point reflects the _compound_ sentiment of a tweet.
 * Each plot point is sorted by its relative timestamp.
+<img width="414" alt="screenshotnewsmoodvaderanalysisscatterplot" src="https://user-images.githubusercontent.com/34551186/41823235-b20204a2-77ca-11e8-9cc3-ad017740063b.png">
 
 The second plot is a bar plot visualizing the _overall_ sentiments of the last 100 tweets from each organization. I've aggregated the compound sentiments analyzed by VADER.
+
+<img width="402" alt="screenshotmediasentimenttwitterbarchart" src="https://user-images.githubusercontent.com/34551186/41823254-06f173c6-77cb-11e8-9e1e-9e0414308fd1.png">
 
 The final Jupyter notebook shows the following:
 
